@@ -1,2 +1,2 @@
 # Linux-Tinnitus-Filter
-A simple notch filter for tinnitus therapy for Linux systems (tested on Ubuntu).
+A simple filter for tinnitus therapy for Linux systems (tested on Ubuntu). You can implement both notch therapy or peaking therapy.
