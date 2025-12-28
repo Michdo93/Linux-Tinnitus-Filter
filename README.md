@@ -426,7 +426,7 @@ At least it will look like this:
 
 ## Usage
 
-1. Start the Python script: python3 tinnitus_app.py.
+1. Start the Python script (`python3 tinnitus_reliever.py`) or click on the launcher Icon.
 2. Add as many filters as you like (e.g., a notch at your tinnitus frequency and a peak at your hearing threshold).
 3. Click `Save & Apply`.
 4. The last “Tinnitus Stage” device will now be automatically selected in the Ubuntu sound settings.
