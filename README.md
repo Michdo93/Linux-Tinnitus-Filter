@@ -7,6 +7,8 @@ A simple filter for tinnitus therapy for Linux systems (tested on Ubuntu). You c
 
 The audio output of your Linux system (tested on Ubuntu) filters appropriately configured frequencies to support your tinnitus therapy. It doesn't matter whether you're playing Netflix, Prime Video, YouTube, web radio, Spotify, etc., local audio and video files, or even sounds from video games through your standard speakers. These filters work in real time, amplifying or attenuating the corresponding frequencies. A notch filter can even be used to completely eliminate and filter out a frequency from the sound output.
 
+![Tinnitus Reliever Configurator](https://github.com/Michdo93/test2/blob/main/tinnitus_reliever.png?raw=true)
+
 ## Features
 
 - Starts and loads the filter settings after each system startup.
