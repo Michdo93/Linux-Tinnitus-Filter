@@ -385,7 +385,7 @@ import os
 # paths definition
 home = os.path.expanduser("~")
 launcher_path = os.path.join(home, ".local/share/applications/tinnitus_reliever.desktop")
-script_path = os.path.join(home, "tinnitus_reliver.py")
+script_path = os.path.join(home, "tinnitus_reliever.py")
 python_path = "/usr/bin/python3"
 
 # desktop file content
@@ -419,6 +419,10 @@ except Exception as e:
 - **Path**: It saves the file in ~/.local/share/applications/. This is the default location for user-defined launchers in Ubuntu.
 - **Icon**: I chose audio-card as the default icon. This is a system icon that looks like a sound card.
 - **Integration**: The app will immediately appear in your search when you press the Super key (Windows key) and search for “Tinnitus.”
+
+At least it will look like this:
+
+![Tinnitus Reliever Launcher](https://github.com/Michdo93/test2/blob/main/tinnitus_reliever2.png?raw=true)
 
 ## Usage
 
